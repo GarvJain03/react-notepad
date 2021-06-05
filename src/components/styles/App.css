@@ -1,0 +1,21 @@
+.wrapper {
+  margin: 2rem;
+  font-weight: bold;
+}
+
+.wrapper h2 {
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.card {
+  font-weight: bold;
+  margin: 2rem;
+  border: 1px solid black;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.notes-group {
+  min-height: 35vh;
+}
