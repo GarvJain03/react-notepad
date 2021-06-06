@@ -27,7 +27,7 @@ export const AddNote = (props) => {
         </h2>
         <div className="relative mb-4">
           <label htmlFor="heading" className="leading-7 text-sm text-gray-600">
-            HEADING
+            TITLE
           </label>
           <input
             type="text"
@@ -45,7 +45,7 @@ export const AddNote = (props) => {
             htmlFor="note-text"
             className="leading-7 text-sm text-gray-600"
           >
-            CONTENT
+            DESCRIPTION
           </label>
           <input
             type="text"
