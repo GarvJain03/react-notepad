@@ -4,7 +4,6 @@ import { AddNote } from "./components/AddNote";
 import { Notes } from "./components/Notes";
 import { Footer } from "./components/Footer";
 import "./components/styles/App.css";
-import "./components/styles/tailwind.css";
 
 function App() {
   let initNote;
